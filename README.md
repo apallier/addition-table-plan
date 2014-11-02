@@ -11,5 +11,4 @@ I made 2 types of layouts :
 - 3D Printing layout (skp and stl) 
 - Laser Cutting layout (svg)
 
-With theses files, you can make the pieces which get with the board.
-Then layout of the board is coming soon.
+With theses files, you can make a board and the pieces going with.
